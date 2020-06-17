@@ -1,4 +1,4 @@
-name: env_from_file
+name: /Users/pavant/Desktop/funprojects/Heart-Disease-Project/env
 channels:
   - defaults
 dependencies:
@@ -8,7 +8,7 @@ dependencies:
   - blas=1.0=mkl
   - bleach=3.1.4=py_0
   - ca-certificates=2020.1.1=0
-  - certifi=2020.4.5.1=py38_0
+  - certifi=2020.4.5.2=py38_0
   - cycler=0.10.0=py38_0
   - dbus=1.13.14=h517e14e_0
   - decorator=4.4.2=py_0
@@ -85,6 +85,7 @@ dependencies:
   - readline=8.0=h1de35cc_0
   - scikit-learn=0.22.1=py38h27c97d8_0
   - scipy=1.4.1=py38h44e99c9_0
+  - seaborn=0.10.1=py_0
   - send2trash=1.5.0=py38_0
   - setuptools=47.1.1=py38_0
   - sip=4.19.8=py38h0a44026_0
@@ -103,5 +104,5 @@ dependencies:
   - zeromq=4.3.1=h0a44026_3
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h1de35cc_3
-prefix: /Users/pavant/opt/miniconda3/envs/env_from_file
+prefix: /Users/pavant/Desktop/funprojects/Heart-Disease-Project/env
 
