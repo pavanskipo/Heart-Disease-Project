@@ -9,7 +9,7 @@ Predicts whether a person is susceptible to heart disease or not.
 ## Predicting Heart Disease using Machine Learning
 
 This notebook uses various python machine learning tools to build a model that predicts the susceptibility of a person
-having a heart disease using thier medical records as reference
+having a heart disease using their medical records as reference
 
 The framework we've used:
 1. Problem Definition
