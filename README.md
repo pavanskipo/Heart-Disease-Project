@@ -5,6 +5,7 @@
 # Heart-Disease-Project
 
 Predicts whether a person is susceptible to heart disease or not.
+Complete report can be found here - [Heart Disease Predictor Notebook](https://github.com/pavanskipo/Heart-Disease-Project/blob/master/heart-disease-classification.ipynb)
 
 ## Predicting Heart Disease using Machine Learning
 
